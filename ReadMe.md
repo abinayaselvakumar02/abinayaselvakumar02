@@ -1,0 +1,18 @@
+# 💫 About Me:
+I'm currently a MERN Stack Developer Intern at Synnefo Solutions and a B.Tech student in Artificial Intelligence and Data Science at CMS College of Engineering and Technology.<br><br>I'm passionate about building modern web applications, learning new technologies, and continuously improving my development skills. Beyond coding, I enjoy expressing my creativity through graphite pencil drawing and dance.<br><br>I'm always eager to learn, collaborate, and take on new challenges that help me grow as a developer.
+
+
+## 🌐 Socials:
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Abinaya S) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abinayaselvakumar02@gmail.com) 
+
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Abinaya Selvakumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Abinaya Selvakumar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Abinaya Selvakumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=Abinaya Selvakumar&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
